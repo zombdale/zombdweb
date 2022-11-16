@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31-Mar-2016, 00:44:59
+    Author     : zombdale
+*/
+
+
+body {
+margin:0px 0px 0px 0px;
+	background-color: black;
+	
+}
+#pot {
+margin:0px 0px 0px 0px;
+
+	background-color: black;
+    
+    
+}
+
+
+input[type=button]:focus {
+    
+    box-shadow: 5px 5px greenyellow;
+    
+    
+}
+
+
+
+div {
+	position: absolute;
+	 background-image : url("img/pb.png");
+	
+}
+
+.dif {
+	 background-image : url("img/pb.png");
+         width: 16px;
+         height: 16px;
+         position:absolute;
+	
+	
+	
+}
+
+.dif:focus {
+	 
+	
+	background-image : url("img/gz.png");
+	
+}
+.dif:hover{
+	 background-image : none;
+	 background-color: black;
+}
+
+

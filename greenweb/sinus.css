@@ -1,0 +1,41 @@
+body {
+background-image: url("img/pb.png");
+cursor : alias;
+}
+
+#ramko{
+	border: double 4px white;
+	display : block;
+	
+	margin-left : auto;
+	margin-right : auto;
+	height : 600px;
+	width : 600px;
+	background-color : black;
+	
+	
+	
+}
+#pod {
+	
+	height: 30px;
+	margin-left : 500px;
+	
+	
+}
+
+#nad {
+	
+	
+	
+}
+.buttony{
+		clear : bottom;
+                
+                
+}
+
+.buttony:hover
+{
+box-shadow: 0px 0px 5px 5px #33cc00;
+    clear : bottom;}
